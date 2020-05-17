@@ -1,0 +1,5 @@
+venv
+Bird_LG_Proxy.egg-info
+build
+dist
+lg-proxy.log
